@@ -9,8 +9,8 @@ data class EmployeeData(
 }
 
 fun main() {
-    val emp1 = ManualEmployee("Дюк", "Побитайло", "Backend Developer")
-    val emp2 = ManualEmployee("Йосип", "Шевченко", "Backend Developer")
+    val emp1 = EmployeeData("Дюк", "Побитайло", "Backend Developer")
+    val emp2 = EmployeeData("Дюк", "Побитайло", "Backend Developer")
 
     println("=== Part2: Power of Data Class ===")
 

@@ -2,7 +2,7 @@ package ex2
 
 fun main() {
     val emp1 = ManualEmployee("Дюк", "Побитайло", "Backend Developer")
-    val emp2 = ManualEmployee("Йосип", "Шевченко", "Backend Developer")
+    val emp2 = ManualEmployee("Дюк", "Побитайло", "Backend Developer")
 
     println("Part3: What the compiler hides (ManualEmployee)")
 
