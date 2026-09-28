@@ -1,8 +1,6 @@
-package Hw2
+package HW2
 
 //На вхід подається дійсне число. Вивести його з n знаками після коми.
-import java.util.Locale
-
 
 
 fun main() {

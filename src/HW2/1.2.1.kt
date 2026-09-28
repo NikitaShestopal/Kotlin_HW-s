@@ -1,4 +1,4 @@
-package Hw2
+package HW2
 import kotlin.random.Random
 import kotlin.math.PI
 

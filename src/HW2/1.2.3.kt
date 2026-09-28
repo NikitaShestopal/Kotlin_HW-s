@@ -1,6 +1,4 @@
-package Hw2
-
-import java.text.NumberFormat
+package HW2
 
 //Визначте, чи є заданий рік високосним.
 //
